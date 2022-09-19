@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9b3c2d3d55c585041891ad1243184271
+  - enabled: 1
+    path: Assets/Scenes/MoebiusRing.unity
+    guid: 041f44d2da5613043ba194c98444791b
+  - enabled: 1
+    path: Assets/Scenes/DupinCyclide.unity
+    guid: d9283d616759c1744a6db5f14a09682a
+  - enabled: 1
+    path: Assets/Scenes/ClebschSurface1.unity
+    guid: de6d636bf174c4f4a80a7b3d8bfd7878
+  - enabled: 1
+    path: Assets/Scenes/SeifertSurface.unity
+    guid: f3273eab191d13940839cb76b96fd038
+  - enabled: 1
+    path: Assets/Scenes/ClebschSurface2.unity
+    guid: 1778a9bcaf3cbaf458972940221f9433
+  - enabled: 1
+    path: Assets/Scenes/KissSurface.unity
+    guid: 177c5b9b2d108e741ad344e0dd547840
+  - enabled: 1
+    path: Assets/Scenes/RomanSurface.unity
+    guid: fbfb6a886719bd44c95a2384caa9e583
+  - enabled: 1
+    path: Assets/Scenes/BoySurface.unity
+    guid: e3c30357bfb8b0447b87007108ef0ee8
+  - enabled: 1
+    path: Assets/Scenes/FunctionPlot01.unity
+    guid: 5a1fb41ed8b9cf74dbda3c916f041843
+  - enabled: 1
+    path: Assets/Scenes/FunctionPlot02.unity
+    guid: 310530a31cb0e244c987061d231877a9
+  - enabled: 1
+    path: Assets/Scenes/BoursMinimal.unity
+    guid: 5ed0f55f696be7147867aee383d1bfd8
+  - enabled: 1
+    path: Assets/Scenes/CatalansMinimal.unity
+    guid: f41ae585bb311dd4c8498f8d3ad0553c
+  - enabled: 1
+    path: Assets/Scenes/FakeGyroid.unity
+    guid: 9cec09480d9229245b902def609b1e29
+  - enabled: 1
+    path: Assets/Scenes/SaddlePoint.unity
+    guid: 4665cab38b6ca0e4ca575c847faec6da
+  - enabled: 1
+    path: Assets/Scenes/Helicoid.unity
+    guid: 77036271901c5df419f566ae011e3f61
+  - enabled: 1
+    path: Assets/Scenes/Catenoid.unity
+    guid: 46f9ce0f6f08e8940998a18cc1004f72
+  - enabled: 1
+    path: Assets/Scenes/DiniSurface.unity
+    guid: 1400614a3511797468e341f263d9fe40
+  - enabled: 1
+    path: Assets/Scenes/KuenSurface.unity
+    guid: 83f1f7c26363df642b20dc6f5a20b54b
+  - enabled: 1
+    path: Assets/Scenes/Enneper.unity
+    guid: 1cb0f4319e7911c44a7876ab79bd509f
+  - enabled: 1
+    path: Assets/Scenes/CostaMinimalSurface.unity
+    guid: dd7e6d632bdb3c24782549e1cfbc28d8
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fea81c1eb6f76934397a0303f54b92c5,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 71f57a8efa02d084f9b697504cfe289b,
+      type: 2}
